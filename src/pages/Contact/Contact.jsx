@@ -16,7 +16,7 @@ function Contact() {
           required
         />
         <label for="name" class="form__label">
-          Name
+          Name 2
         </label>
       </div>
       <form>
